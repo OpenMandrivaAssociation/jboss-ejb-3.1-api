@@ -1,10 +1,10 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 %global namedreltag .Final
 %global namedversion %{version}%{?namedreltag}
 
 Name:             jboss-ejb-3.1-api
 Version:          1.0.2
-Release:          8.0%{?dist}
+Release:          8.1%{?dist}
 Summary:          EJB 3.1 API
 
 License:          CDDL or GPLv2 with exceptions
