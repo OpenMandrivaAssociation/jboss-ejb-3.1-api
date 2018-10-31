@@ -4,7 +4,7 @@
 
 Name:             jboss-ejb-3.1-api
 Version:          1.0.2
-Release:          11.2
+Release:          11.3
 Summary:          EJB 3.1 API
 Group:            Development/Java
 License:          CDDL or GPLv2 with exceptions
