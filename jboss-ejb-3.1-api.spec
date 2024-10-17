@@ -8,7 +8,7 @@ Release:          11.3
 Summary:          EJB 3.1 API
 Group:            Development/Java
 License:          CDDL or GPLv2 with exceptions
-Url:              http://www.jboss.org
+Url:              https://www.jboss.org
 Source0:          https://github.com/jboss/jboss-ejb-api_spec/archive/jboss-ejb-api_3.1_spec-%{namedversion}.tar.gz
 
 BuildRequires:    jboss-transaction-1.1-api
